@@ -34,9 +34,7 @@
 </ol></p>
 <p>В данном проекте были использованы такие инструменты "qase.io", "Sitechco", "Confluence", "Jira", "Miro"</p>
 <p>Как решала(-а):<br>
-<a href="https://helenakaz.atlassian.net/wiki/spaces/LIBRARY2/pages/2392065/1">Ссылка на проект</a> <br>
-логин: Kazannikova.e.96@gmail.com<br>
-пароль: 2HJsm!C4pz9H4.n</p> 
+<a href="https://helenakaz.atlassian.net/wiki/spaces/LIBRARY2/pages/2392065/1">Ссылка на проект</a></p> 
  <p>Выводы (итоги):<br>
 <ol>
   <li>Составила тест-план;</li>
@@ -100,9 +98,7 @@
 <p>В данном проекте были использованы такие инструменты "qase.io", "Confluence", "Postman".</p>
 <p>Как решала(-а):<br>
 <a href="https://helenakaz.atlassian.net/wiki/spaces/LIBRARY2/pages/9633793/1+2">Ссылка на проект</a><br>
-логин: Kazannikova.e.96@gmail.com<br>
-пароль: 2HJsm!C4pz9H4.n<br> 
-<p>Выводы (итоги):</p>
+логин: Kazannikova.e.96@gmail.com</p>
 <ol>
   <li>Дополнила тест-план из 1 проекта;</li>
   <li>Создала коллекцию в Postman;</li>
@@ -165,9 +161,7 @@
 </ol>
 <p>В данном проекте были использованы такие инструменты "qase.io", "Confluence", "docs.google.com - Excel", "Miro".</p>
 <p>Как решала(-а):<br>
-<a href="https://helenakaz.atlassian.net/wiki/spaces/LIBRARY2/pages/4358145">Ссылка на проект</a><br>
-логин: Kazannikova.e.96@gmail.com<br>
-пароль: 2HJsm!C4pz9H4.n</p> 
+<a href="https://helenakaz.atlassian.net/wiki/spaces/LIBRARY2/pages/4358145">Ссылка на проект</a></p> 
  <p>Выводы (итоги):<p>
 <ol>
   <li>Выделила функциональные/нефункциональные проверки для поставленных задач;</li>
@@ -305,9 +299,7 @@ order by owner<br></li>
 </ol> 
 <p>В данном проекте были использованы такие инструменты "Confluence", "Postman", "pgAdmin 4", "Sitechco".</p>
     <p>Как решала(-а):<br>
-<a href="https://helenakaz.atlassian.net/wiki/spaces/LIBRARY2/pages/14974977">Ссылка на проект</a><br>
-логин: Kazannikova.e.96@gmail.com<br>
-пароль: 2HJsm!C4pz9H4.n</p>
+<a href="https://helenakaz.atlassian.net/wiki/spaces/LIBRARY2/pages/14974977">Ссылка на проект</a></p>
 <p>Выводы (итоги):<p>
 <ol>
   <li>Оформила в confluence тестовое задание</li>
